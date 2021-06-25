@@ -12,6 +12,11 @@ Die Trading Faktoren umfassen folgende Parameter:
 - **MACD**: Der MACD berechnet die Differenz zweier Exponentieller Gleitender Durchschnitte (EMA) und stellt diese in Form einer Linie dar. Meistens hat der MACD eine zusätzliche Signallinie (Trigger). Mithilfe des MACD Indikator lassen sich Trendrichtung, stärke, sowie verschiedene Kauf- und Verkaufssignale definieren
 - **Score**: Der User kann die Gewichtungen der einzelnen Paramter wählen. Ab einem Score von 80 wird eine Buy Order ausgeführt
 
+## Sentiment Analysis Twitter
+Hierzu wurde ein Pretrained Model von Ernie verwendet (BERT). Weitere Informationen sind hier zu finden --> https://github.com/labteral/ernie. Accuracy +95%
+
+## Sentiment Analysis News
+Hierzu wurde https://pypi.org/project/pysentiment/ implementiert
 
 ## Programmiersprache und Technologie 
 
@@ -36,7 +41,7 @@ Verwende npm zum installieren der Packages
 
 
 
-## Verwendung
+## Ausführung
 1.	Packages installieren
 2.	Twitter API Zugang beantragen und BEARER Token in das Script einfügen
 3.	Binance Account eröffnen und API's erstellen und im Script einbetten
