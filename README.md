@@ -35,8 +35,6 @@ Verwende npm zum installieren der Packages
 -	**datetime**
 
 
-Außerdem empfiehlt sich die Applikation Postman.
-Informationen zu npm: https://www.npmjs.com
 
 ## Verwendung
 1.	Packages installieren
