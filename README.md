@@ -54,3 +54,10 @@ Verwende npm zum installieren der Packages
 
 ## Weiteres
 Bei Fragen zur Ausführung melden
+
+## Start the Bot
+```sh
+git clone ....
+cd <folder>
+python xy.py...
+```
