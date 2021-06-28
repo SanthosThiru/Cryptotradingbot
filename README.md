@@ -46,11 +46,13 @@ Verwende npm zum installieren der Packages
 
 
 ## Ausführung
-1.	Packages installieren
-2.	Twitter API Zugang beantragen und BEARER Token in das Script einfügen
-3.	Binance Account eröffnen und API's erstellen und im Script einbetten
-4.	Trading Parameter eingeben (Wieviel Profit?)
-5.	Script ausführen 
+1.	Jupyther Notebook installieren
+2.	TradingBot2 Code kopieren und in ein eigenes Notebook einfügen
+3.	Packages installieren, die unter Requirements genannt wurden
+4.	Twitter API Zugang beantragen und BEARER Token in das Script einfügen
+5.	Binance Account eröffnen und API's erstellen und im Script einbetten
+6.	Trading Parameter eingeben (Wieviel Profit?)
+7.	Script ausführen 
 
 ## Weiteres
 Bei Fragen zur Ausführung melden
