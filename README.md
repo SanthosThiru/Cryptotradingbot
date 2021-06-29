@@ -46,7 +46,7 @@ Verwende npm zum installieren der Packages
 
 
 ## Ausführung
-1.	Jupyther Notebook installieren
+1.	Jupyter Notebook installieren
 2.	TradingBot2 Code kopieren und in ein eigenes Notebook einfügen
 3.	Packages installieren, die unter Requirements genannt wurden
 4.	Twitter API Zugang beantragen und BEARER Token in das Script einfügen
