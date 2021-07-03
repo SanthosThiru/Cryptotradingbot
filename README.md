@@ -1,6 +1,6 @@
 # Crypto Trading Bot
 ![alt text](https://images.unsplash.com/photo-1614787296891-d1b2b1aced36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hgjudzojmvlB47dCXP02JB73kPKe3H1g?usp=sharing)
 ## General Information
 Dieses Projekt enthält einen Trading Bot für Kryptowährungen der basierend auf verschiedener Trading Faktoren eine Kauf- oder Verkaufsentscheidung fällt. Es handelt sich um keinen Trading Bot, der Fast-Trading betreibt.
 
@@ -46,13 +46,15 @@ Verwende npm zum installieren der Packages
 
 
 ## Ausführung
-1.	Jupyter Notebook installieren
-2.	TradingBot2 Code kopieren und in ein eigenes Notebook einfügen
-3.	Packages installieren, die unter Requirements genannt wurden
-4.	Twitter API Zugang beantragen und BEARER Token in das Script einfügen
-5.	Binance Account eröffnen und API's erstellen und im Script einbetten
-6.	Trading Parameter eingeben (Wieviel Profit?)
-7.	Script ausführen 
+1.	Jupyter Notebook installieren oder den Code über die oben genannten Verknüpfung auf Google Colab ausführen
+2.	Das Model befindet sich unter folgendem Ordner und sollte vor der Ausführung in Colab runtergeladen und in der Drive gesichert werden.
+--> https://drive.google.com/drive/folders/1ol0QOybtzeNlYHWc7sM7RxAGDiEfhpc4?usp=sharing
+4.	TradingBot2 Code kopieren und in ein eigenes Notebook einfügen
+5.	Packages installieren, die unter Requirements genannt wurden
+6.	Twitter API Zugang beantragen und BEARER Token in das Script einfügen
+7.	Binance Account eröffnen und API's erstellen und im Script einbetten
+8.	Trading Parameter eingeben (Wieviel Profit?)
+9.	Script ausführen 
 
 ## Weiteres
 Bei Fragen zur Ausführung melden
