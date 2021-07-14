@@ -1,6 +1,11 @@
 # Crypto Trading Bot
 ![alt text](https://images.unsplash.com/photo-1614787296891-d1b2b1aced36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hgjudzojmvlB47dCXP02JB73kPKe3H1g?usp=sharing)
+
+## Präsentation 
+[Trading Bot Abschlusspräsentation.pdf](https://github.com/SanthosThiru/Cryptotradingbot/files/6817049/Trading.Bot.Abschlussprasentation.pdf)
+
+
 ## General Information
 Dieses Projekt enthält einen Trading Bot für Kryptowährungen der basierend auf verschiedener Trading Faktoren eine Kauf- oder Verkaufsentscheidung fällt. Es handelt sich um keinen Trading Bot, der Fast-Trading betreibt.
 
